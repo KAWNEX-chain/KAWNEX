@@ -1,2 +1,2 @@
-# Kerncoin
-Kerncoin
+# Gridline
+Gridline
